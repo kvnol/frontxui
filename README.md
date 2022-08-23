@@ -29,7 +29,7 @@ Designers e Devs: uni-vos. Melhorando o conhecimento e comunicação da equipe.
     - [Pixel perfect](#pixel-perfect)
     - [Variações](#variações-1)
 - [Como contribuir?](#como-contribuir)
-- [Autores](#autores)
+- [Pessoas que contribuiram](#pessoas-que-contribuiram)
 
 ## Proposta
 
@@ -91,7 +91,7 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 4. Realize o Push no Branch (git push origin feature/contribuicao)
 5. Abra um Pull Request
 
-## Autores
+## Pessoas que contribuiram
 
 | [Kevin Oliveira](/kvnol) |
 |:---:|
