@@ -28,6 +28,8 @@ Designers e Devs: uni-vos. Melhorando o conhecimento e comunicação da equipe.
   - [Boas práticas para a codificação de um layout](#boas-práticas-para-a-codificação-de-um-layout)
     - [Pixel perfect](#pixel-perfect)
     - [Variações](#variações-1)
+- [Como contribuir?](#como-contribuir)
+- [Autores](#autores)
 
 ## Proposta
 
@@ -78,3 +80,20 @@ A ideia dos documentos desse repositório é explicar de forma fácil e rápida 
 #### Pixel perfect
 
 #### Variações
+
+## Como contribuir?
+
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas!
+
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (git checkout -b feature/contribuicao)
+3. Realize o Commit (git commit -m 'feature/contribuicao')
+4. Realize o Push no Branch (git push origin feature/contribuicao)
+5. Abra um Pull Request
+
+## Autores
+
+| [Kevin Oliveira](/kvnol) |
+|:---:|
+![image](https://user-images.githubusercontent.com/3299130/186283562-f1c11b01-a157-4b8b-bcf3-bd06c4277591.png)
+
