@@ -35,7 +35,13 @@ Designers e Devs: uni-vos. Melhorando o conhecimento e comunicação da equipe.
 
 ### Introdução
 
-A ideia dos documentos desse repositório é explicar de forma fácil e rápida pontos do dia-a-dia de designers para dev e vice-versa, sobre boas práticas, ferramentas, técnicas e conhecimentos básicos para que uma pessoa conheça e entenda o que a outra pensou e quis fazer. Dessa forma melhorando a comunicação entre as equipes e, consequentemente, a qualidade dos projetos.
+A ideia dos documentos desse repositório é explicar de forma fácil e rápida pontos do dia-a-dia de designers para devs e vice-versa, sobre boas práticas, ferramentas, técnicas e conhecimentos básicos para que uma pessoa conheça e entenda a profissão da outra, o que pensou e quis fazer.
+
+Para melhorar a comunicação entre as equipes e, consequentemente, a qualidade dos projetos é imprescindível que ambas as equipes e profissionais se entendam e compreendam o que a outra parte faz, para que a qualidade da demanda que venha da equipe de design seja de fácil entendimento para a equipe de desenvolvimento e que a programação atenda perfeitamente o que foi planejado, desenhado e prototipado.
+
+Muitas vezes a falta desse entendimento e compreensão das equipes acaba com alguns erros clássicos como, por exemplo, layouts fora de padrões para web, com medidas e protótipos complexos feitos pela equipe de design que podem complicar a vida das pessoas desenvolvedoras.
+
+Por outro lado alguns erros e desconhecimentos do layout quando cometidos pelo lado da equipe de desenvolvimento pode acarretar em alguns problemas como, por exemplo, inconsistência de grid, cores ou fontes alteradas. 
 
 ## Você é designer?
 
