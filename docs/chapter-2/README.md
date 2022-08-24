@@ -2,6 +2,8 @@
 
 # Você é designer?
 
+Se você é designer a ideia desse documento, claramente, não é te dar dicas de design ou direcionamentos da forma como seguir pois seu caminho para criar precisa ser livre e sem amarras, mas sim te explicar brevemente em como funciona o desenvolvimento front-end, o que devs fazem ao receber suas telas e algumas sugestões para melhorar a entrega dos layouts, assets e protótipos. 
+
 ## Subcapítulos
 
 - [O básico do front-end](/docs/chapter-2/1-o-basico-do-front-end.md#o-básico-do-front-end)
