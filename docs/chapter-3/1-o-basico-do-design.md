@@ -1,4 +1,4 @@
-###### Você está em: [Home](/) / [Você é dev?](/docs/chapter-3/README.md) / O básico do design
+###### Você está em: [Home](/README.md) / [Você é dev?](/docs/chapter-3/README.md) / O básico do design
 
 # O básico do design
 

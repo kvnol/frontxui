@@ -1,4 +1,4 @@
-###### Você está em: [Home](/) / [Você é designer?](/docs/chapter-2/) / Boas práticas para o design na web
+###### Você está em: [Home](/README.md) / [Você é designer?](/docs/chapter-2/) / Boas práticas para o design na web
 
 # Boas práticas para o design na web
 

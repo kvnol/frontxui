@@ -1,4 +1,4 @@
-###### Você está em: [Home](/) / [Você é designer?](/docs/chapter-2/) / O básico do front-end
+###### Você está em: [Home](/README.md) / [Você é designer?](/docs/chapter-2/) / O básico do front-end
 
 # O básico do front-end
 

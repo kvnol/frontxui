@@ -1,4 +1,4 @@
-###### Você está em: [Home](/) / Você é dev?
+###### Você está em: [Home](/README.md) / Você é dev?
 
 # Você é dev?
 
