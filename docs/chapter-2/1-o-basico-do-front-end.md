@@ -21,3 +21,9 @@ CSS é a abreviação para Cascading Style Sheets (Folhas de estilo em cascatas)
 ## O que é JavaScript?
 
 O JavaScript é uma linguagem de programação que, no front-end, é utilizada para a interatividade do site, com eventos nos cliques, ao scrollar a tela e também integrações com dados externos. 
+
+### Aprofunde-se
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
