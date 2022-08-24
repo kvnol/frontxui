@@ -24,6 +24,6 @@ O JavaScript é uma linguagem de programação que, no front-end, é utilizada p
 
 ### Aprofunde-se
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML na MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS na MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript na MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
