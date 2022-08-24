@@ -11,3 +11,8 @@ Algumas decisões tomadas pelo time de design por desconhecimento de como funcio
 ## Inconsistência no tamanho dos elementos
 
 ## Pontos de toque fracos no mobile e tablet
+
+
+### Aprofunde-se
+
+- [10 Common UI Design Mistakes](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
