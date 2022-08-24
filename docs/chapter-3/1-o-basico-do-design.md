@@ -2,13 +2,13 @@
 
 # O básico do design
 
-Uma equipe de desenvolvimento pode se beneficiar bastante de conhecer do básico de design por ser tornar capaz de entender, analisar e aplicar no código o que está presente na interface recebida do time de Design
+Uma equipe de desenvolvimento pode se beneficiar bastante de conhecer do básico de design por ser tornar capaz de entender, analisar e aplicar no código o que está presente na interface recebida do time de Design.
 
 ## Os 4 princípios básicos do design
 
 O Design apresenta alguns princípios básicos que podem te guiar na construção de telas, páginas e outros segmentos e que podem te auxiliar no entendimento de designs de interfaces que tiver contato. Esses princípios andam juntos e talvez seja até difícil de enxergar só um deles ser usado quando estiver analisando uma peça.
 
-São guias a serem seguidos com o intuito de tornar um design mais acertivo com a intenção que você quer passar e as informações que quer comunicar
+São guias a serem seguidos com o intuito de tornar um design mais acertivo com a intenção que você quer passar e as informações que quer comunicar.
 
 ### Contraste
 
@@ -20,13 +20,17 @@ Por exemplo, cores diferentes sendo usadas juntas podem não se diferenciar o su
 
 É possível perceber no site da [Rock Content](https://rockcontent.com/br/) que mesmo eles utilizando diversas cores, formas e tamanhos diferentes ao longo da página principal, é possível facilmente distinguir e ler esses elementos de maneira flúida por manterem um bom contraste entre si.
 
+![Basico de Design - Contraste](https://user-images.githubusercontent.com/47088150/186464659-11f5e4c9-1843-4a51-813e-2d53b87d67ed.png)
+
 ### Alinhamento
 
 O alinhamento de elementos é um princípio que nos ajuda a organizar as informações dentro de um mesmo contexto (tela, página, aba, etc). Você provavelmente já teve que alinhar um texto em ferramentas como Word, que te apresenta as opções de alinhar a esquerda, a direita, ao centro, etc. A ideia aqui é a mesma, porém, para todos os elementos presentes.
 
 Manter um bom alinhamento entre os elementos ajuda a manter a fluidez de leitura de um design. Sem que a pessoa precise ficar procurando as informações na tela. Também é uma ótima maneira de agrupar visualmente elementos que tenham relação entre si.
 
-Um exemplo simples e comum presente em diversos sites é o alinhamento de elementos do header. Na [Digital Ocean](https://www.digitalocean.com/), por exemplo, é possível ver que o primeiro elemento no cabeçalho é a logo deles e que logo em seguida já podemos ler as diferentes seções do site. Ambas as informações estão conectadas já que pertencem as páginas de informações do site sobre a própria empresa e ambas estarem alinhadas ao mesmo eixo ajuda nesse entendimento. Já na parte mais á direita, vemos os botões de login e registro de conta. Esses botões executam ações que te levam a uma área interna do site e normalmente é usado por quem já conhece a empresa, portanto, expressam informações diferentes e o alinhamento ajuda no entendimento dessa diferença
+Um exemplo simples e comum presente em diversos sites é o alinhamento de elementos do header. Na [Digital Ocean](https://www.digitalocean.com/), por exemplo, é possível ver que o primeiro elemento no cabeçalho é a logo deles e que logo em seguida já podemos ler as diferentes seções do site. Ambas as informações estão conectadas já que pertencem as páginas de informações do site sobre a própria empresa e ambas estarem alinhadas ao mesmo eixo ajuda nesse entendimento. Já na parte mais á direita, vemos os botões de login e registro de conta. Esses botões executam ações que te levam a uma área interna do site e normalmente é usado por quem já conhece a empresa, portanto, expressam informações diferentes e o alinhamento ajuda no entendimento dessa diferença.
+
+![Basico de Design - Alinhamento](https://user-images.githubusercontent.com/47088150/186464725-7c74c209-70b2-4fa3-851c-88d03745bd49.png)
 
 ### Proximidade
 
@@ -34,9 +38,11 @@ Esse princípio diz respeito ao agrupamento de elementos similares. A proximidad
 
 Uma boa distribuição de elementos e seus agrupamentos em um design ajuda na fluidez da leitura e evita que a pessoa que o está vendo fique perdida por onde começar a olhar.
 
-Por isso que espaços em brancos são muito importantes em um design. Você não precisa ocupar toda a tela de elementos e, na verdade, ao não fazer isso você ajuda o seu design a ser menos custoso para ser processado por quem estiver lendo
+Por isso que espaços em brancos são muito importantes em um design. Você não precisa ocupar toda a tela de elementos e, na verdade, ao não fazer isso você ajuda o seu design a ser menos custoso para ser processado por quem estiver lendo.
 
 Um exemplo comum desse princípio está presente em landing pages que separam setores diferentes de acordo com as informações contidas nele. Na página sobre a [Criação de apps do Ionic](https://ionic.io/build) é possível ver essas diferentes seções separadas não só fisicamente mas também em suas características visuais para ajudar na percepção dos diferentes grupos de informação presentes.
+
+![Basico de Design - Proximidade](https://user-images.githubusercontent.com/47088150/186464793-38a8dd17-7794-460d-baab-0940e8935f72.png)
 
 ### Repetição
 
@@ -46,4 +52,7 @@ Um site que apresenta fontes ou cores diferentes a cada página visitada, por ex
 
 A quebra da repetição em alguns elementos também pode ser interessante, como para diferenciar serviços ou produtos distintos oferecidos por uma mesma empresa. Porém, o ideal é que essa quebra ocorra em pontos específicos mas que ainda se tenha.
 
-Cada segmento de produto oferecido pela [Stripe](https://stripe.com/br) usa cores diferentes para se diferenciarem, porém, o padrão de layout das páginas se mantêm como forma de manter a identidade e não confudir quem está conhecendo os diversos produtos
+Cada segmento de produto oferecido pela [Stripe](https://stripe.com/br) usa cores diferentes para se diferenciarem, porém, o padrão de layout das páginas se mantêm como forma de manter a identidade e não confudir quem está conhecendo os diversos produtos.
+
+
+![Basico de Design - Repetição](https://user-images.githubusercontent.com/47088150/186464867-ba203543-99b2-4b38-ae2b-5e48d72787b9.png)
