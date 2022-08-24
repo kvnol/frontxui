@@ -8,11 +8,15 @@ Para que a equipe de design possa entregar um layout com a melhor qualidade poss
 
 HTML é a abreviação para HyperText Markup Language (Linguagem de Marcação de Hipertexto), é o responsável por estruturar e dar significado para o site.
 
-![Exemplo de um layout e ao lado o mesmo layout com uma marcação simples no HTML](https://user-images.githubusercontent.com/3299130/186332477-16ecbb37-618b-4c71-b5ca-8e2328ca9447.png)
+![Exemplo de um layout e ao lado o mesmo layout com uma marcação simples no HTML](https://user-images.githubusercontent.com/3299130/186409203-cfdc41a9-ebce-4489-841f-e6a4fe45b677.png)
+
 
 ## O que é CSS?
 
 CSS é a abreviação para Cascading Style Sheets (Folhas de estilo em cascatas), é o responsável pelo visual do site, com cores, alinhamentos, fontes, animações e outros estilos.
+
+![Exemplo de um layout e ao lado o mesmo layout com uma estilização simples no CSS](https://user-images.githubusercontent.com/3299130/186409257-bceaf7cf-71b6-498a-8aa3-5d031d810d59.png)
+
 
 ## O que é JavaScript?
 
