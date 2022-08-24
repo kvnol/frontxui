@@ -18,7 +18,7 @@ O contraste pode se dar entre fontes, cores, tamanhos, formas, etc.
 
 Por exemplo, cores diferentes sendo usadas juntas podem não se diferenciar o suficiente para que seja possível distingui-las facilmente. Ou se elementos que sejam diferentes entre si estiverem com tamanhos ou formas parecidas podem não serem entendidos corretamente.
 
-É possível perceber no site da [Rock Content](https://rockcontent.com/br/) que mesmo eles utilizando diversas cores, formas e tamanhos diferentes ao longo da página principal, é possível facilmente distinguir e ler esses elementos de maneira flúida por manterem um bom contraste entre si.
+É possível perceber no site da [Rock Content](https://rockcontent.com/br/) que mesmo eles utilizando diversas cores, formas e tamanhos diferentes (tanto em conjunto quanto em sobreposição) ao longo da página principal, é possível facilmente distinguir e ler esses elementos de maneira flúida por manterem um bom contraste entre si.
 
 ![Basico de Design - Contraste](https://user-images.githubusercontent.com/47088150/186465245-11f1d414-969b-4782-97d8-139db42f3975.png)
 
@@ -46,7 +46,7 @@ Um exemplo comum desse princípio está presente em landing pages que separam se
 
 ### Repetição
 
-A repetição de elementos e suas características é um artíficio importante para criação de uma identidade para um design. Isso ajuda no entendimento das diferentes partes dele serem entendidas como de um mesmo projeto.
+A repetição de elementos e suas características é um artíficio importante para criação de uma identidade para um design. Isso ajuda no entendimento das diferentes partes dele serem percebidas como pertencentes ao mesmo todo.
 
 Um site que apresenta fontes ou cores diferentes a cada página visitada, por exemplo, pode dificultar o entendimento de unidade e acabar sendo percebido como entidades completamente diferente para os usuários.
 
