@@ -22,6 +22,12 @@ CSS é a abreviação para Cascading Style Sheets (Folhas de estilo em cascatas)
 
 O JavaScript é uma linguagem de programação que, no front-end, é utilizada para a interatividade do site, com eventos nos cliques, ao scrollar a tela e também integrações com dados externos. 
 
+![Exemplo de um layout e ao lado o mesmo layout com a interação no Javascript](https://user-images.githubusercontent.com/3299130/186420540-8c37376f-0ce1-4c17-bcf8-e97c86b3d074.png)
+
+> [Veja exemplo em gif do layout interativo](https://storage.googleapis.com/figmotion-renderer/videos/4%3A92%3ALy3hqghmdv5W-468594aa-5e61-4a9f-a869-59bcc256d7a8.gif?GoogleAccessId=cloud-run-frames-handler%40figmotion.iam.gserviceaccount.com&Expires=1661348108&Signature=DfadlzWqxnjzQApeLgTyWT13Vc5V4NsaYF21jsDQB%2BjLiztAJLx32%2FYxx8gjzeWLEnB54tVKj15dUfWH8z2CutJ%2BsYFZB0ZwgCr9nOUp%2BhRZgbktRhueXAYfX7kUiH%2FhJnoF%2F3tR11CRVD6M8APT%2BF6CxnzELQNhhwuHMR4gPccGDkz%2Fo7cLePO68znBKPccCxyvKOWHtmbryXsyl4pzscEnwrLGtuu4Zp51rITuCPay3ev8%2FUSQy5393nlAGmFZAN%2BJJl%2BapIfUfDoxNbECEmxYYBdKQa7PgsaDMWQsqoDPp3JXHKlVYLqci%2FzZF%2Bzv4o4VPb7FCVPgpvuN1h%2Btpg%3D%3D)
+
+
+
 ### Aprofunde-se
 
 - [HTML na MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
