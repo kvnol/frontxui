@@ -17,7 +17,7 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 4. Realize o Push no Branch (git push origin feature/contribuicao)
 5. Abra um Pull Request
 
-## Pessoas que contribuiram
+## Pessoas que contribuíram
 
 | [Kevin Oliveira](/kvnol) |
 |:---:|
