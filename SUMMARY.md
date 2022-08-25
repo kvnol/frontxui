@@ -15,6 +15,8 @@
     - [Componentização](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#componentização)
     - [Variações](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#variações)
     - [Breakpoints](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#breakpoints)
+    - [Acessibilidade](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#acessibilidade)
+    - [SEO](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#seo)
 - [Você é dev?](/docs/chapter-3/README.md#você-é-dev)
   - [O básico do design](/docs/chapter-3/1-o-basico-do-design.md#o-básico-do-design)
     - [Os 4 princípios básicos do design](/docs/chapter-3/1-o-basico-do-design.md#os-4-princípios-básicos-do-design)
