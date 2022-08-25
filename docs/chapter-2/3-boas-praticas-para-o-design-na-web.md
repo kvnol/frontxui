@@ -16,7 +16,7 @@
 
 Existem ferramentas que nos ajudam a criar um projeto que siga algumas guidelines. Alguns deles são:
 
-- [eMAG - Modelo de Acessibilidade em Governo Eletrônico]()https://emag.governoeletronico.gov.br/
+- [eMAG - Modelo de Acessibilidade em Governo Eletrônico](https://emag.governoeletronico.gov.br/)
 - [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 - [The A11Y Project](https://www.a11yproject.com/)
