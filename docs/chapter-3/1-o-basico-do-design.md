@@ -55,3 +55,7 @@ A quebra da repetição em alguns elementos também pode ser interessante, como 
 Cada segmento de produto oferecido pela [Stripe](https://stripe.com/br) usa cores diferentes para se diferenciarem, porém, o padrão de layout das páginas se mantêm como forma de manter a identidade e não confudir quem está conhecendo os diversos produtos.
 
 ![Exemplo de layout sem repetição e com repetição](/assets/chapter3-repeticao.png)
+
+### Aprofunde-se
+
+- [Livro: Design Para Quem Não é Designer](http://www.comcom.fac.unb.br/images/docs/Design.pdf)
