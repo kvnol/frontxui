@@ -16,3 +16,5 @@ Se você é designer a ideia desse documento, claramente, não é te dar dicas d
   - [Componentização](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#componentização)
   - [Variações](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#variações)
   - [Breakpoints](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#breakpoints)
+  - [Acessibilidade](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#acessibilidade)
+  - [SEO](/docs/chapter-2/3-boas-praticas-para-o-design-na-web.md#seo)
