@@ -19,7 +19,6 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 
 ## Pessoas que contribuíram
 
-| [Kevin Oliveira](/kvnol) |
-|:---:|
-![image](https://user-images.githubusercontent.com/3299130/186283562-f1c11b01-a157-4b8b-bcf3-bd06c4277591.png)
-
+| [Kevin Oliveira](/kvnol) | [Emanuel Andrade](/Emanuelpna)
+|:---:|:---:|
+![image](https://user-images.githubusercontent.com/3299130/186283562-f1c11b01-a157-4b8b-bcf3-bd06c4277591.png) | ![image](https://user-images.githubusercontent.com/3299130/186571263-7f9b4d9c-7b43-4ee5-8e61-c81a0f9af814.png)
