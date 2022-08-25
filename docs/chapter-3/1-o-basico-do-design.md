@@ -20,7 +20,7 @@ Por exemplo, cores diferentes sendo usadas juntas podem não se diferenciar o su
 
 É possível perceber no site da [Rock Content](https://rockcontent.com/br/) que mesmo eles utilizando diversas cores, formas e tamanhos diferentes (tanto em conjunto quanto em sobreposição) ao longo da página principal, é possível facilmente distinguir e ler esses elementos de maneira flúida por manterem um bom contraste entre si.
 
-![Basico de Design - Contraste](https://user-images.githubusercontent.com/47088150/186465245-11f1d414-969b-4782-97d8-139db42f3975.png)
+![Exemplo de layout sem contraste e com contraste](/assets/chapter3-contraste.png)
 
 ### Alinhamento
 
@@ -30,7 +30,7 @@ Manter um bom alinhamento entre os elementos ajuda a manter a fluidez de leitura
 
 Um exemplo simples e comum presente em diversos sites é o alinhamento de elementos do header. Na [Digital Ocean](https://www.digitalocean.com/), por exemplo, é possível ver que o primeiro elemento no cabeçalho é a logo deles e que logo em seguida já podemos ler as diferentes seções do site. Ambas as informações estão conectadas já que pertencem as páginas de informações do site sobre a própria empresa e ambas estarem alinhadas ao mesmo eixo ajuda nesse entendimento. Já na parte mais á direita, vemos os botões de login e registro de conta. Esses botões executam ações que te levam a uma área interna do site e normalmente é usado por quem já conhece a empresa, portanto, expressam informações diferentes e o alinhamento ajuda no entendimento dessa diferença.
 
-![Basico de Design - Alinhamento](https://user-images.githubusercontent.com/47088150/186465434-256f4f26-5e6d-48fa-946d-089c305ae6a1.png)
+![Exemplo de layout desalinhado e alinhado](/assets/chapter3-alinhamento.png)
 
 ### Proximidade
 
@@ -42,7 +42,7 @@ Por isso que espaços em brancos são muito importantes em um design. Você não
 
 Um exemplo comum desse princípio está presente em landing pages que separam setores diferentes de acordo com as informações contidas nele. Na página sobre a [Criação de apps do Ionic](https://ionic.io/build) é possível ver essas diferentes seções separadas não só fisicamente mas também em suas características visuais para ajudar na percepção dos diferentes grupos de informação presentes.
 
-![Basico de Design - Proximidade](https://user-images.githubusercontent.com/47088150/186465467-57c8257c-07f0-4c4d-bc4a-5ae647e2c109.png)
+![Exemplo de layout sem proximidade e com proximidade](/assets/chapter3-proximidade.png)
 
 ### Repetição
 
@@ -54,4 +54,4 @@ A quebra da repetição em alguns elementos também pode ser interessante, como 
 
 Cada segmento de produto oferecido pela [Stripe](https://stripe.com/br) usa cores diferentes para se diferenciarem, porém, o padrão de layout das páginas se mantêm como forma de manter a identidade e não confudir quem está conhecendo os diversos produtos.
 
-![Basico de Design - Repetição](https://user-images.githubusercontent.com/47088150/186465518-ee505c98-89e2-48b0-8614-0815634fa34a.png)
+![Exemplo de layout sem repetição e com repetição](/assets/chapter3-repeticao.png)
