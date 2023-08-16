@@ -25,8 +25,6 @@ Evitar as inconsistências de tamanhos de elementos iguais componentizando os me
 
 Uma boa prática que também ajuda muito na componentização de elementos pelo time de desenvolvimento é reparar e ajustar os valores quebrados (47.84px ao invés de 48px), com estes valores arredondados os elementos acabam se encaixando muito melhor nas páginas e dessa forma facilitando o alinhamento. Leia sobre grid 8pt, isso pode ajudar nessa padronização de tamanhos.
 
-Leia sobre o 
-
 ## Pontos de toque fracos no mobile e tablet
 
 É boa prática de usabilidade e de acessibilidade ter elementos tocáveis/clicáveis com uma boa área, evitando assim cliques fora do elemento certo ou que dificulte a leitura. O mínimo de um ponto de toque recomendado pela Apple é de 44x44px e de 48x48px pelo Google, levando em conta que o tamanho mínimo sugerido para o texto é de 14px.
