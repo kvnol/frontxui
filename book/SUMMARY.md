@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [🤝 Designers e Devs: uni-vos!](README.md)
 * [Proposta](proposta/README.md)
   * [Introdução](proposta/introducao.md)
 * [Você é designer?](voce-e-designer/README.md)
